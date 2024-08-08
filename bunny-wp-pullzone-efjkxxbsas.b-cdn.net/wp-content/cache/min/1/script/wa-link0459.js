@@ -1,0 +1,1 @@
+console.error('Error : t.me link plugin is failed to load, no unique code found.')
